@@ -1,0 +1,20 @@
+Funcionalidades
+carga/actualización de datos desde archivos externos
+inicio de sesión y acceso a funciones segun el tipo de usuario
+reproducción aleatoria con temporizador manejo de publicidad (para el no pago) y controles adicionales (para premium)
+gestion de lista de favoritos para usuarios premium: agregar, eliminar, seguir y reproducir canciones
+medicion de eficiencia, mostrando número de iteraciones y memoria consumida tras ejecutar cada funcionalidad
+
+Restricciones
+no se permite usar la STL ni vector, map, list se deben crear estructuras con memoria dinámica
+aplicar encapsulación, abstracción, herencia y polimorfismo
+implementar al menos dos sobrecargas de operadores y una función amiga
+minimizar copias y usar referencias cuando sea posible
+la interfaz es completamente por consola
+
+dificultades o complejidades del programa
+implementar memoria dinámica sin STL
+calcular el uso de memoria y las iteraciones requiere mediciones explicitas
+
+conclusiones
+el ejercicio combina aspectos de modelado, objetos interrelacionados, esta pensado para que se vea una comprensión de la orientación a objetos incluyendo la modularidad y la eficiencia, se trata de construir un modelo funcional y estructurado
